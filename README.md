@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL"/>
+  <img src="(https://github.com/triquantumintelligentsystems/assets/blob/main/banner.png)"/>
 </p>
 
 <h1 align="center">TriQuantum Intelligent Systems</h1>
 
 <p align="center">
-  <img src="YOUR_LOGO_URL" width="110"/>
+  <img src="https://github.com/triquantumintelligentsystems/assets/blob/main/logo.png" width="110"/>
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ Founder & Systems Architect
 ## 📫 Connect
 
 🌐 Website: Coming Soon  
-📧 Email: contact@triquantum.ai  
+📧 Email: Will update soon
 
 ---
 
