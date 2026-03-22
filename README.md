@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="(https://github.com/triquantumintelligentsystems/assets/blob/main/banner.png)"/>
+   <img src="https://github.com/triquantumintelligentsystems/assets/blob/main/banner.png"/>
 </p>
 
 <h1 align="center">TriQuantum Intelligent Systems</h1>
@@ -38,34 +38,13 @@ We aim to bridge cutting-edge technology with real-world applications by buildin
 * Computer Vision Systems
 * Predictive Analytics
 * AI-powered eCommerce Platforms
-* Virtual Try-On Technology (FitMirror)
+
 
 ---
 
 ## ⚡ Core Products
 
-### 🔷 TriOS ∞ — AI Operating System
-
-* Intent-driven interaction (No apps)
-* Context-aware execution
-* Multi-agent intelligence
-* Edge + Cloud hybrid architecture
-
----
-
-### 🟢 FitMirror AI — Virtual Try-On Platform
-
-* AI body modeling & measurement
-* AR-based virtual try-on
-* Real-time personalization
-
----
-
-### 🟣 Quantum AI Engine — Core Intelligence Layer
-
-* Intent recognition engine
-* Agent orchestration system
-* Predictive behavior modeling
+### Under Development Stage 
 
 ---
 
